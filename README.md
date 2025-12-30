@@ -38,16 +38,16 @@ To improve real-world reliability, the application includes **confidence-based u
 
 ## 🏗️ System Architecture
 
-- User Uploads Image
+User Uploads Image
 ↓
-- Streamlit Frontend (frontend/app.py)
+Streamlit Frontend (frontend/app.py)
 ↓
-- Image Preprocessing (Resize & Normalize)
+Image Preprocessing (Resize & Normalize)
 ↓
-- MobileNetV2 (Feature Extraction)
+MobileNetV2 (Feature Extraction)
 ↓
-- Custom CNN Classification Layer
+Custom CNN Classification Layer
 ↓
-- Softmax Output (Probabilities)
+Softmax Output (Probabilities)
 ↓
-- Prediction + Confidence / Unknown Handling
+Prediction + Confidence / Unknown Handling
