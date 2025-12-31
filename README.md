@@ -191,5 +191,5 @@ This project is developed for **educational purposes** and is free to use for le
 ## 👤 Author
 
 **Dikshitha A**  
-Aspiring Software Engineer | AI & ML Enthusiast
+Aspiring Software Engineer | AI & ML Enthusiast | Python Development
 
